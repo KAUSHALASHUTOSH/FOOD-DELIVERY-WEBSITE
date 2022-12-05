@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,900&display=swap');
+header{
+    font-family: 'Merriweather',monospace,Arial, Helvetica, sans-serif;
+}
+#hy{
+    font-family: 'Merriweather',Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-shadow: lightsteelblue;
+    margin: 0;
+}
+#fe{
+    font-family: 'Merriweather',Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    text-transform: uppercase;
+    text-shadow: lightsteelblue;
+    margin-left: 20px;
+    margin-bottom: 4px;
+}
+#asd{
+    font-family: 'Merriweather',Arial, Helvetica, sans-serif;
+    font-size: small;
+    text-transform: uppercase;
+    text-shadow: lightsteelblue;
+}
+
+#download{
+    font-family: 'Merriweather',Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+footer{
+    font-family: 'Merriweather',Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+.my{
+  font-family: "Merriweather",monospace;
+  text-transform: uppercase;
+}

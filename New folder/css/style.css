@@ -1,0 +1,113 @@
+body{
+    margin: 0;padding: 0;
+}
+header{
+    background-color: #039dfc;
+    height: 63px;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    padding-left: 12px;
+    justify-content: left;
+    align-items: center;
+    font-size: 45px;
+    font-weight: bolder;
+    font-family: initial;
+    border: solid lightblue;
+    border-radius: 2vh;
+}
+body div.container{
+    background-color: white;
+    height: 156px;
+    margin: 0; padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+body div.container img.hui{
+    height: 90%;
+}
+.my{
+    font-size: 25px;
+    background-color: lavender;
+    border: solid rosybrown;
+    height: 75px;
+}
+div.uif{
+    background-color: lightcyan;
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    border: solid lightskyblue;
+
+}
+body div.uif img.ji{
+    height: 90%;
+    width: 70%;
+}
+body div.uif img.jii{
+    height: 90%;
+    width: 70%;
+    }    
+#hy{
+    background-color: lightgrey;
+    border: solid lightgreen;
+}
+#download{
+    display: flex;
+    background-color: lightyellow;
+    border: solid red;
+    border-radius: 2px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    width: 150px;
+}
+div.hr{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height :69px;
+
+}
+footer{
+    height: 57px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    color: white;
+}
+@keyframes animate{
+    0%{
+        border-top-color: black;
+        border-right: transparent;
+        border-bottom: transparent;
+        border-left: transparent;
+    }
+    25%{
+        border-top-color: transparent;
+        border-right: black;
+        border-bottom: transparent;
+        border-left: transparent;
+    }
+    50%{
+        border-top-color: transparent;
+        border-right: transparent;
+        border-bottom: black;
+        border-left: transparent;
+    }
+    75%{
+        border-top-color: transparent;
+        border-right: transparent;
+        border-bottom: transparent;
+        border-left: black;
+    }
+    100%{
+        border-top-color: transparent;
+        border-right: transparent;
+        border-bottom: transparent;
+        border-left: black;
+    }
+}
